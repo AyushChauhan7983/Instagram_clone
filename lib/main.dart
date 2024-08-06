@@ -16,7 +16,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: const FirebaseOptions(
-            apiKey: 'AIzaSyDk-sOt-sdT5fbcco6WNZsgoBkS13aEA20',
+            apiKey: '###################################',
             appId: '1:130059566389:web:87a5ef0d491433df87207c',
             messagingSenderId: '130059566389',
             projectId: 'social-media-app-625f2',
